@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff027a9c-cc4d-41b5-8636-c502d65dc22f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interfaces/AbleToFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/AbleToRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Cooker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="ff027a9c-cc4d-41b5-8636-c502d65dc22f" name="Changes" comment="10.04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "active",
-    "onboarding.tips.debug.path": "D:/JAVA-Android_Dev/OOP/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;active&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA-Android_Dev/OOP/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.Main" />
@@ -90,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1681140547041</updated>
     </task>
+    <task id="LOCAL-00001" summary="10.04">
+      <created>1681150944214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681150944214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +97,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.04" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
