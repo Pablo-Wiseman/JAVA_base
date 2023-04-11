@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff027a9c-cc4d-41b5-8636-c502d65dc22f" name="Changes" comment="10.04" />
+    <list default="true" id="ff027a9c-cc4d-41b5-8636-c502d65dc22f" name="Changes" comment="10.04">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Proger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/WaiterPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Cooker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Programmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Waiter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;active&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA-Android_Dev/OOP/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
   <component name="RunManager">

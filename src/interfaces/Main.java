@@ -4,14 +4,15 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-    Client client = new Client();
-    client.makeOrder(new Waiter() {
-        @Override
-        public void bringOrder(String dish) {
-            System.out.println("bring " + dish);
-        }
-    });
-
+        Client client = new Client();
+        client.makeOrder(new Waiter() {
+            @Override
+            public void bringOrder(String dish) {
+                System.out.println("I bring you " + dish);
+            }
+        }, "apple");
     }
 
+
 }
+
